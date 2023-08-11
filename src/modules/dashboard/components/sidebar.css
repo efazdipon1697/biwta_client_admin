@@ -1,0 +1,7 @@
+.sidebarContainer {
+    position: fixed;
+    background-color: #00A7DA;
+    height: 100%;
+    box-sizing : border-box;
+    padding: 20px 10px;
+}
